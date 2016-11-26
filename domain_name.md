@@ -1,5 +1,5 @@
 |名字|是否被占用|费用|
-|--|:--:|:--:|
+|:--:|:--:|:--:|
 |bookshare|yes||
 |book-share|yes||
 |sharebook|yes|100000|
@@ -9,5 +9,5 @@
 |bookexchange|yes||
 |exchangebook|yes||
 |bookex|yes||
-|bookexc|yes||	
-|bookexch|yes||	
+|bookexc|yes||
+|bookexch|yes||
